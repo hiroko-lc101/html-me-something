@@ -95,3 +95,15 @@ footer {
 body {
     background: azure;
 }
+
+#castle {
+    color: brown;
+}
+
+#shrine {
+    color: red;
+}
+
+#zoo {
+    color: green;
+}
